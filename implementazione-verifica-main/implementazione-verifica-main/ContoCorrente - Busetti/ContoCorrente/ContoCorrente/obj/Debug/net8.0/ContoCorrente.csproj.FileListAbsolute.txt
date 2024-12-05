@@ -1,0 +1,42 @@
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.exe
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.deps.json
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.runtimeconfig.json
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfoInputs.cache
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfo.cs
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\refint\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.genruntimeconfig.cache
+C:\Users\daloa\Desktop\ContoCorrente\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ref\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.exe
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.deps.json
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.runtimeconfig.json
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfoInputs.cache
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfo.cs
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\refint\ContoCorrente.dll
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.genruntimeconfig.cache
+C:\Users\daloa\Desktop\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ref\ContoCorrente.dll
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.exe
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.deps.json
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.runtimeconfig.json
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\bin\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfoInputs.cache
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.AssemblyInfo.cs
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.dll
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\refint\ContoCorrente.dll
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.pdb
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ContoCorrente.genruntimeconfig.cache
+C:\Users\daloa\Desktop\implementazione-verifica-main\implementazione-verifica-main\ContoCorrente - Busetti\ContoCorrente\ContoCorrente\obj\Debug\net8.0\ref\ContoCorrente.dll
